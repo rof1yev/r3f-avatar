@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "soundFile": "/Users/a1234/Documents/programming/3d website/r3f-avatar/Rhubarb-Lip-Sync-1.14.0-macOS/../public/audios/welcome.wav",
+    "duration": 5.01
+  },
+  "mouthCues": [
+    { "start": 0.0, "end": 0.1, "value": "X" },
+    { "start": 0.1, "end": 0.31, "value": "D" },
+    { "start": 0.31, "end": 0.36, "value": "C" },
+    { "start": 0.36, "end": 0.54, "value": "B" },
+    { "start": 0.54, "end": 0.62, "value": "A" },
+    { "start": 0.62, "end": 0.73, "value": "B" },
+    { "start": 0.73, "end": 0.8, "value": "E" },
+    { "start": 0.8, "end": 0.94, "value": "F" },
+    { "start": 0.94, "end": 1.08, "value": "D" },
+    { "start": 1.08, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.36, "value": "G" },
+    { "start": 1.36, "end": 1.5, "value": "B" },
+    { "start": 1.5, "end": 1.64, "value": "C" },
+    { "start": 1.64, "end": 1.71, "value": "G" },
+    { "start": 1.71, "end": 1.95, "value": "X" },
+    { "start": 1.95, "end": 2.03, "value": "C" },
+    { "start": 2.03, "end": 2.11, "value": "A" },
+    { "start": 2.11, "end": 2.21, "value": "B" },
+    { "start": 2.21, "end": 2.42, "value": "H" },
+    { "start": 2.42, "end": 2.49, "value": "C" },
+    { "start": 2.49, "end": 2.63, "value": "F" },
+    { "start": 2.63, "end": 2.91, "value": "B" },
+    { "start": 2.91, "end": 3.12, "value": "F" },
+    { "start": 3.12, "end": 3.57, "value": "X" },
+    { "start": 3.57, "end": 3.64, "value": "C" },
+    { "start": 3.64, "end": 3.7, "value": "E" },
+    { "start": 3.7, "end": 3.77, "value": "D" },
+    { "start": 3.77, "end": 3.98, "value": "F" },
+    { "start": 3.98, "end": 4.05, "value": "G" },
+    { "start": 4.05, "end": 4.4, "value": "B" },
+    { "start": 4.4, "end": 4.61, "value": "C" },
+    { "start": 4.61, "end": 4.68, "value": "B" },
+    { "start": 4.68, "end": 5.01, "value": "X" }
+  ]
+}
